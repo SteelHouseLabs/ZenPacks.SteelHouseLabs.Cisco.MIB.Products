@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.SteelHouseLabs.Cisco.MIB.Products = ZenPacks.SteelHouseLabs.Cisco.MIB.Products
+
